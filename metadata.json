@@ -1,0 +1,5 @@
+{
+  "name": " TesisAI - Penilai Tesis Pintar",
+  "description": "Aplikasi pintar untuk menilai tesis dalam Bahasa Melayu. Ia menyemak ejaan, format APA 7, dan logik penerangan data, serta menyediakan skrip yang telah dibetulkan.",
+  "requestFramePermissions": []
+}
